@@ -11,13 +11,16 @@
 
 - 🏢 I'm a Software Engineer.
 - 👨‍💻 As a CS student, I'm constantly learning and exploring new technologies to improve my skills.
-- 💬 Ask me about my experience with JavaScript, NodeJS, Express Framework, DataStructure and Algorithms, or anything related to web development.
-- ⚡ Fun Fact: I'm a coffee enthusiast and my perfect day would start and end with a cup of coffee.
+- 💬 Ask me about my experience using JavaScript, NodeJS, Express Framework for backend development.
+- 💻 &nbsp;Goals: Improve my technical and soft skills. 
 
 
 ### Connect with Me :
 
-<a href="https://www.linkedin.com/in/paula-refaat-136885248/" target="_blank"><img src="https://img.shields.io/badge/-Paula%20Refaat-0077B5?style=for-the-badge&logo=Linkedin&logoColor=white"/></a>
+<p >
+<a href="https://www.linkedin.com/in/paula-refaat-136885248/" target="_blank"><img src="https://img.shields.io/badge/Linkedin-%230077B5.svg?&logo=linkedin&logoColor=white" alt="LinkedIn"></a>
+<a href="mailto:poularefaat86@gmail.com" target="_blank"><img src="https://img.shields.io/badge/gmail-%23E4405F.svg?&logo=gmail&logoColor=white" alt="Gmail"></a>  
+<a href="https://api.whatsapp.com/send?phone=+201200709861&text=Hi!" target="_blank"><img src="https://img.shields.io/badge/-Whatsapp-4CA143?&labelColor=4CA143&logo=whatsapp&logoColor=white&link=https://api.whatsapp.com/send?phone=+201201920343&text=Hi!" alt="Whatsapp"></a>
 
 ### 🛠 &nbsp;Tech Stack
 ![Node.js](https://img.shields.io/badge/-Node.js-05122A?style=flat&logo=node.js&logoColor=339933)&nbsp;
